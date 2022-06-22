@@ -1,0 +1,21 @@
+
+
+ul {
+
+    color: black;
+    font-family: "Papyrus", "Monaco", Arial;
+    font-size: 30px;
+
+}
+
+h1 {
+    font-family: "Papyrus", "Monaco", Arial;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(172, 81, 38)
+}
+
+img {
+    height: auto;
+  width: 300px;
+}
